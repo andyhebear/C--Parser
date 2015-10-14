@@ -1,0 +1,14 @@
+E:\GitHub\C# Parser\csparser\testParser\bin\Debug\testParser.exe
+E:\GitHub\C# Parser\csparser\testParser\bin\Debug\testParser.pdb
+E:\GitHub\C# Parser\csparser\testParser\obj\Debug\ResolveAssemblyReference.cache
+E:\GitHub\C# Parser\csparser\testParser\obj\Debug\testParser.Form1.resources
+E:\GitHub\C# Parser\csparser\testParser\obj\Debug\testParser.Properties.Resources.resources
+E:\GitHub\C# Parser\csparser\testParser\obj\Debug\testParser.csproj.GenerateResource.Cache
+E:\GitHub\C# Parser\csparser\testParser\obj\Debug\testParser.exe
+E:\GitHub\C# Parser\csparser\testParser\obj\Debug\testParser.pdb
+E:\GitHub\C# Parser\csparser\testParser\bin\Debug\CMicroParser.dll
+E:\GitHub\C# Parser\csparser\testParser\bin\Debug\CMicroParser.pdb
+E:\GitHub\C# Parser\csparser\testParser\bin\Debug\DotNetZen.CodeDom.dll
+E:\GitHub\C# Parser\csparser\testParser\bin\Debug\DotNetZen.CodeDom.Patterns.dll
+E:\GitHub\C# Parser\csparser\testParser\bin\Debug\DotNetZen.CodeDom.Patterns.xml
+E:\GitHub\C# Parser\csparser\testParser\bin\Debug\DotNetZen.CodeDom.xml

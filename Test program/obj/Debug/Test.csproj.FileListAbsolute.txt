@@ -1,0 +1,9 @@
+E:\GitHub\C# Parser\csparser\Test program\bin\Debug\cmc.exe
+E:\GitHub\C# Parser\csparser\Test program\bin\Debug\cmc.pdb
+E:\GitHub\C# Parser\csparser\Test program\bin\Debug\CMicroParser.dll
+E:\GitHub\C# Parser\csparser\Test program\bin\Debug\nunit.framework.dll
+E:\GitHub\C# Parser\csparser\Test program\bin\Debug\CMicroParser.pdb
+E:\GitHub\C# Parser\csparser\Test program\bin\Debug\nunit.framework.xml
+E:\GitHub\C# Parser\csparser\Test program\obj\Debug\ResolveAssemblyReference.cache
+E:\GitHub\C# Parser\csparser\Test program\obj\Debug\cmc.exe
+E:\GitHub\C# Parser\csparser\Test program\obj\Debug\cmc.pdb

@@ -1,0 +1,9 @@
+E:\GitHub\C# Parser\csparser\CSLexer\bin\Debug\CMicroParser.dll
+E:\GitHub\C# Parser\csparser\CSLexer\bin\Debug\CMicroParser.pdb
+E:\GitHub\C# Parser\csparser\CSLexer\bin\Debug\DotNetZen.CodeDom.dll
+E:\GitHub\C# Parser\csparser\CSLexer\bin\Debug\DotNetZen.CodeDom.Patterns.dll
+E:\GitHub\C# Parser\csparser\CSLexer\bin\Debug\DotNetZen.CodeDom.Patterns.xml
+E:\GitHub\C# Parser\csparser\CSLexer\bin\Debug\DotNetZen.CodeDom.xml
+E:\GitHub\C# Parser\csparser\CSLexer\obj\Debug\ResolveAssemblyReference.cache
+E:\GitHub\C# Parser\csparser\CSLexer\obj\Debug\CMicroParser.dll
+E:\GitHub\C# Parser\csparser\CSLexer\obj\Debug\CMicroParser.pdb
