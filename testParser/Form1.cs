@@ -38,22 +38,55 @@ namespace testParser {
         //
         private void button_Execute_Click(object sender, EventArgs e) {
            // ParserRunner pr = new ParserRunner();
-            List<Parser.Error>errors=new List<Parser.Error>();
-            CompilationUnitNode cn=ParserRunner.ParseFile(this.comboBox_csfile.Text,out errors);
-            //
-            this.textBox1.Text = "";
-            if (errors.Count > 0) {
-                StringBuilder sb = new StringBuilder();
-                foreach (var v in errors) {
-                    sb.AppendLine(string.Format("({0},{1} token:{2})  {3}",v.Line,v.Column,v.Token,v.Message));
+            try {
+                List<Parser.Error> errors = new List<Parser.Error>();
+                CompilationUnitNode cn = ParserRunner.ParseFile(this.comboBox_csfile.Text, out errors);
+                //
+                this.textBox1.Text = "";
+                if (errors.Count > 0) {
+                    StringBuilder sb = new StringBuilder();
+                    foreach (var v in errors) {
+                        sb.AppendLine(string.Format("({0},{1} token:{2})  {3}", v.Line, v.Column, v.Token, v.Message));
+                    }
+                    this.textBox1.Text = sb.ToString();
                 }
-                this.textBox1.Text = sb.ToString();
+                else {
+                    StringBuilder sb = new StringBuilder();
+                    cn.ToSource(sb);
+                    this.textBox1.Text = sb.ToString();
+                }
             }
-            else {
-                StringBuilder sb = new StringBuilder();
-                cn.ToSource(sb);
-                this.textBox1.Text = sb.ToString();
+            catch(Exception ee) {
+                MessageBox.Show(ee.ToString());
             }
+
+        }
+
+        private void button_Parser_Click(object sender, EventArgs e) {
+            try {
+                string file = this.comboBox_csfile.Text;
+                Parser parser = new Parser(file);
+               DDW.Collections.TokenCollection tc=new DDW.Collections.TokenCollection();
+                List<string>strs=new List<string>();
+                CompilationUnitNode  cn= parser.Parse(tc, strs);
+                this.textBox1.Text = "";
+                if (parser.Errors.Count > 0) {
+                    StringBuilder sb = new StringBuilder();
+                    foreach (var v in parser.Errors) {
+                        sb.AppendLine(string.Format("({0},{1} token:{2})  {3}", v.Line, v.Column, v.Token, v.Message));
+                    }
+                    this.textBox1.Text = sb.ToString();
+                }
+                else {
+                    StringBuilder sb = new StringBuilder();
+                    cn.ToSource(sb);
+                    this.textBox1.Text = sb.ToString();
+                }
+            }
+            catch (Exception ex){ 
+            
+            }
+
 
         }
 

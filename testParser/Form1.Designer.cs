@@ -46,9 +46,9 @@
             this.button_Parser.Name = "button_Parser";
             this.button_Parser.Size = new System.Drawing.Size(75, 23);
             this.button_Parser.TabIndex = 0;
-            this.button_Parser.Text = "执行";
+            this.button_Parser.Text = "Parser";
             this.button_Parser.UseVisualStyleBackColor = true;
-            this.button_Parser.Click += new System.EventHandler(this.button_Execute_Click);
+            this.button_Parser.Click += new System.EventHandler(this.button_Parser_Click);
             // 
             // textBox1
             // 
