@@ -1,0 +1,13 @@
+E:\GitHub\C# Parser\antlrcsharp\browse\browse\Symbol\bin\Debug\Symbol.dll
+E:\GitHub\C# Parser\antlrcsharp\browse\browse\Symbol\bin\Debug\Symbol.pdb
+E:\GitHub\C# Parser\antlrcsharp\browse\browse\Symbol\obj\Debug\Symbol.csprojResolveAssemblyReference.cache
+E:\GitHub\C# Parser\antlrcsharp\browse\browse\Symbol\obj\Debug\Symbol.dll
+E:\GitHub\C# Parser\antlrcsharp\browse\browse\Symbol\obj\Debug\Symbol.pdb
+E:\GitHub\C# Parser\Antlr33\Symbol\obj\Debug\Symbol.csprojResolveAssemblyReference.cache
+E:\GitHub\C# Parser\Antlr33\Symbol\obj\Debug\Symbol.pdb
+E:\GitHub\C# Parser\Antlr33\Symbol\bin\Debug\Symbol.pdb
+E:\GitHub\C# Parser\Antlr33\Symbol\bin\Debug\Antlr3.Runtime.dll
+E:\GitHub\C# Parser\Antlr33\Symbol\bin\Debug\Antlr3.Runtime.pdb
+E:\GitHub\C# Parser\Antlr33\Symbol\bin\Debug\Symbol.dll.config
+E:\GitHub\C# Parser\Antlr33\Symbol\bin\Debug\Symbol.dll
+E:\GitHub\C# Parser\Antlr33\Symbol\obj\Debug\Symbol.dll

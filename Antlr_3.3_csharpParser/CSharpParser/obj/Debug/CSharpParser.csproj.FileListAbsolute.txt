@@ -1,0 +1,10 @@
+E:\GitHub\C# Parser\Antlr33\CSharpParser\obj\Debug\CSharpParser.csprojResolveAssemblyReference.cache
+E:\GitHub\C# Parser\Antlr33\CSharpParser\obj\Debug\CSharpParser.Properties.Resources.resources
+E:\GitHub\C# Parser\Antlr33\CSharpParser\obj\Debug\CSharpParser.csproj.GenerateResource.Cache
+E:\GitHub\C# Parser\Antlr33\CSharpParser\bin\Debug\CSharpParser.exe.config
+E:\GitHub\C# Parser\Antlr33\CSharpParser\bin\Debug\CSharpParser.exe
+E:\GitHub\C# Parser\Antlr33\CSharpParser\bin\Debug\CSharpParser.pdb
+E:\GitHub\C# Parser\Antlr33\CSharpParser\bin\Debug\Antlr3.Runtime.dll
+E:\GitHub\C# Parser\Antlr33\CSharpParser\bin\Debug\Antlr3.Runtime.pdb
+E:\GitHub\C# Parser\Antlr33\CSharpParser\obj\Debug\CSharpParser.exe
+E:\GitHub\C# Parser\Antlr33\CSharpParser\obj\Debug\CSharpParser.pdb

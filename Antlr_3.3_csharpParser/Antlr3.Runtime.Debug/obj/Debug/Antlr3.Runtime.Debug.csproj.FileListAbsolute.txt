@@ -1,0 +1,7 @@
+E:\GitHub\C# Parser\Antlr33\Antlr3.Runtime.Debug\bin\Debug\Antlr3.Runtime.Debug.dll
+E:\GitHub\C# Parser\Antlr33\Antlr3.Runtime.Debug\bin\Debug\Antlr3.Runtime.Debug.pdb
+E:\GitHub\C# Parser\Antlr33\Antlr3.Runtime.Debug\bin\Debug\Antlr3.Runtime.dll
+E:\GitHub\C# Parser\Antlr33\Antlr3.Runtime.Debug\bin\Debug\Antlr3.Runtime.pdb
+E:\GitHub\C# Parser\Antlr33\Antlr3.Runtime.Debug\obj\Debug\Antlr3.Runtime.Debug.csprojResolveAssemblyReference.cache
+E:\GitHub\C# Parser\Antlr33\Antlr3.Runtime.Debug\obj\Debug\Antlr3.Runtime.Debug.dll
+E:\GitHub\C# Parser\Antlr33\Antlr3.Runtime.Debug\obj\Debug\Antlr3.Runtime.Debug.pdb
